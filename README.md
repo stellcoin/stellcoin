@@ -30,7 +30,7 @@ Stell-Pay is a utility on the Stellcoin platform that allows community members t
 4. **Innovative Projects:** Engaging projects like our game, NFT marketplace, and Stell-Pay enhance the usability and value of Stellcoin.
 5. **Reliable Investment:** Offers a stable and attractive investment option for risk-averse individuals and businesses.
 
-Join us in building the future of decentralized economies with Stellcoin. For more information, visit our [website](#) or join our [community](#) today!
+Join us in building the future of decentralized economies with Stellcoin. For more information, visit our [website](stellcoin.org) or join our [community](https://t.me/stellcoin) today!
 
 ---
 
